@@ -10,7 +10,9 @@ a {
   color: inherit;
   text-decoration: none;
 }
-
+.backgroundWaitlist {
+  background-image:linear-gradient(rgba(255, 255, 255, 0.86), rgba(255, 255, 255, 0.86)),url("/some.png")
+}
 * {
   box-sizing: border-box;
 }
